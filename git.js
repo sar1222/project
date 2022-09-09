@@ -1,3 +1,3 @@
 console.log("Hello world");
 let hi = "hello world"
-let h = "salom"
+let h = "salom1"
